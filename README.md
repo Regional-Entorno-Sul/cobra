@@ -26,7 +26,7 @@ cobra.exe --classific
 5. No módulo de exportação, selecionar o checkbox "Exportar dados de identificação do paciente" e a data inicial e a data final que serão selecionados os
    registros para exportação (período);  
    
-6. Selecionar também o checkbox "X29 - acidente ´por animais peçonhentos";  
+6. Selecionar também o checkbox "X29 - acidente por animais peçonhentos";  
 
 7. Clicar no botão "Exportar" e aguarde o fim da geração do arquivo;  
 
