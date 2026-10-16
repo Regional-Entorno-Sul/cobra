@@ -8,7 +8,8 @@ cobra.exe [argumento]
 
 [--ocupacao]:procura por casos de pacientes cujo acidente esteja relacionado ao trabalho/ocupacao, mas na notificação o campo de ocupação está em branco.
 [--classific]:procura por notificações cujo campo de classificação do caso esteja sem preenchimento ou codificada como "ignorado".
-[--evolucao]:detecção de notificações com o campo evolução em branco ou marcado como "ignorado".
+[--evolucao]:detecção de notificações com o campo evolução em branco ou marcado como "ignorado".  
+[--serp]:procura por notificações de acidentes por serpentes e caso os campos de doses de soro estejam quantificadas para outros tipos de soros como antiescorpionico ou antiaracnidico, um arquivo de casos com este tipo de inconsistência é gerado.  
 
 Exemplo de uso:
 cobra.exe --classific
