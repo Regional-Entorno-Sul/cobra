@@ -1,5 +1,6 @@
-![x](/redsnake.png) # **Cobra**
+![x](/redsnake.png)  
 
+# **Cobra**
 Analisa inconsistências e incompletudes no arquivo de exportação do SINAN NET relacionadas ao agravo de acidentes com animais peçonhentos (CID X29).  
 
 Sintaxe do executável:
